@@ -24,7 +24,7 @@ function App() {
                 </div>
                
 
-                <div className="items-center flex p-2 text-white text-sm"><a href=''>Todo o código pode ser encontrado aqui:   </a><img className="w-6 h-6 ml-2" src={github}></img>
+                <div className="items-center flex p-2 text-white text-sm"><a href='https://github.com/jonathanteoddoro/workshop-react-inteli-blockchain.git'>Todo o código pode ser encontrado aqui:   </a><img className="w-6 h-6 ml-2" src={github}></img>
                 </div>
                 <div className="items-center flex p-2 text-white text-sm"><a href='https://chat.whatsapp.com/EoP5wbGPujg8vpG9f6KNWz'>Caso tenha alguma dúvida: </a> <img className="w-6 h-6 ml-2" src={wpp}></img></div>
                 </div>
